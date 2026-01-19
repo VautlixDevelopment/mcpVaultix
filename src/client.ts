@@ -4,7 +4,7 @@
  * Simple HTTP client for Vaultix API
  */
 
-const BASE_URL = 'https://console.velon.app/api/v1'
+const BASE_URL = 'https://api.vaultix.global/api/v1'
 
 export class VaultixClient {
   private apiKey: string
